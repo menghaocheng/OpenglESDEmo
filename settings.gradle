@@ -1,0 +1,2 @@
+rootProject.name='OpenglESDEmo'
+include ':app'
